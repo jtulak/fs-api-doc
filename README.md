@@ -44,8 +44,8 @@ First some generic notes, then categorised.
 
 ### For Integration
 LVM has a reporting engine which perhaps could be used to gather all messages
-before printing them out in any desired format. Contact Alasdair G Kergon <agk
-at redhat>
+before printing them out in any desired format. Contact Alasdair G Kergon \<agk
+at redhat\>
 
 
 ### EVMS
